@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T11:33:29.896Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" version="13.8.0" etag="iebaZ-egdmLJJPFrnbVR" type="github"><diagram id="a8DZd4pTrANNuwWvUfZb">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-28T11:39:21.964Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="wwAkpmOr7V1rWPB53o-M" version="13.8.0" type="github">
+  <diagram id="a8DZd4pTrANNuwWvUfZb" name="Page-1">
+    <mxGraphModel dx="744" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fcoQ4BzhZd5VfGcqPhMv-1" value="Question#1&lt;br&gt;Expanded question" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="380" y="80" width="120" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="fcoQ4BzhZd5VfGcqPhMv-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="500" y="80" width="290" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="fcoQ4BzhZd5VfGcqPhMv-3" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="320" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fcoQ4BzhZd5VfGcqPhMv-4" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="397" y="320" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fcoQ4BzhZd5VfGcqPhMv-5" value="Timer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="500" y="80" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fcoQ4BzhZd5VfGcqPhMv-6" value="SSH Terminal to VM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="510" y="110" width="250" height="260" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
